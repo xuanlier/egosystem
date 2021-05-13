@@ -1,0 +1,65 @@
+{
+  "id": "2534252",
+  "name": "egoNav",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "741859",
+      "name": "个人 (2)",
+      "font_class": "geren2",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1516910",
+      "name": "退出 #8f8f8f & 14px",
+      "font_class": "tuichufffpx",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3544170",
+      "name": "修改",
+      "font_class": "ico_compile",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "7550210",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "13544028",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "16020747",
+      "name": "折叠2",
+      "font_class": "zhedie2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "16020767",
+      "name": "折叠1",
+      "font_class": "zhedie1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18367976",
+      "name": "删 除 (1)",
+      "font_class": "shanchu1",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    }
+  ]
+}
